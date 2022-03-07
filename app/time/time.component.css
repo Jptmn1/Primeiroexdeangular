@@ -1,0 +1,12 @@
+#time{
+    height: 2.5em;
+    width: 50%;
+    background-color: rgb(199, 23, 199);
+}
+
+label{font-size: larger;
+    display: block;
+    margin-bottom: 10px;
+    width: 50%;
+    background-color: plum;
+}
